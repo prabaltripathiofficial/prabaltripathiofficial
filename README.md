@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @prabaltripathiofficial
-- 👀 I’m interested in Web Applications Development
-- 🌱 I’m currently learning Nextjs
+- 👋 Hi, I’m Prabal.
+- 👀 I’m interested in Web Apps Development.
+- 🌱 I’m currently deep diving into Backend Development.
 - 🤝 I’m looking to collaborate on Github, LinkedIn
-- 📫 You can reach me on instagram @prabaltripathi__ , linkedin on prabaltripathiofficial.
+- 📫 You can reach to me on linkedin @prabaltripathiofficial.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am messed up but my code is not.
 
