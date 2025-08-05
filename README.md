@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Apps Development.
 - 🌱 I’m currently deep diving into Backend Development.
 - 🤝 I’m looking to collaborate on Github, LinkedIn
-- 📫 You can reach to me on linkedin @prabaltripathiofficial.
+- 📫 You can reach to me at prabaltripathiofficiak@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am messed up but my code is not.
 
