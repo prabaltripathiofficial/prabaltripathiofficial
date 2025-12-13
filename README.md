@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Prabal's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prabaltripathiofficial&show_icons=true&theme=radical&hide_border=true" alt="Prabal's GitHub Stats" />
   </a>
 </p>
