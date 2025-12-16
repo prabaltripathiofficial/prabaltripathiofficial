@@ -5,7 +5,7 @@
   
   <h1>Hi, I'm Prabal Tripathi</h1>
 
-  <code>I make software designs and digital aesthetics.</code>
+  <code>I make software architecture, designs and digital aesthetics.</code>
   <br>
   <br>
 </div>
